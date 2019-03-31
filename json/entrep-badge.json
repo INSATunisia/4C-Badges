@@ -1,13 +1,7 @@
 {
 	"name": "4C-INSAT Certified - Entrepreneurship Skills",
 	"description": "This badge is awarded to those who have successfully attended a training in the Entrepreneurship Category, provided by 4C-INSAT",
-	
-	  "image": {
-	  	"@context": "https://w3id.org/openbadges/v2",
-	    "id": "https://badges.lilisfaxi.now.sh/badge-entrep.png",
-	    "caption": "4C-INSAT Certified in Entrepreneurship Skills Badge",
-	    "author": "http://www.insat.rnu.tn"
-	  },
+	"image": "https://badges.lilisfaxi.now.sh/badge-entrep.png",
 	"criteria": "http://www.insat.rnu.tn",
 	"issuer": "https://badges.lilisfaxi.now.sh/json/issuer.json"
 }
