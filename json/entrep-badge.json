@@ -6,7 +6,7 @@
 	  	"@context": "https://w3id.org/openbadges/v2",
 	    "id": "https://badges.lilisfaxi.now.sh/badge-entrep.png",
 	    "caption": "4C-INSAT Certified in Entrepreneurship Skills Badge",
-	    "author": "Lilia Sfaxi"
+	    "author": "http://www.insat.rnu.tn"
 	  },
 	"criteria": "http://www.insat.rnu.tn",
 	"issuer": "https://badges.lilisfaxi.now.sh/json/issuer.json"
