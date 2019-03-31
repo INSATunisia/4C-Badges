@@ -5,7 +5,7 @@
     "identity": "liliasfaxi@gmail.com",
     "hashed": false
   },
-  "issuedOn":  "03/31/2019",
+  "issuedOn":  "2019-03-31",
   "badge": "https://badges.lilisfaxi.now.sh/json/entrep-badge.json",
   "verify": {
     "type": "hosted",
