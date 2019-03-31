@@ -1,13 +1,13 @@
-{"uid": "liliasfaxi-entrep-2019-03-31", 
+{"uid": "bourasmouna151-soft-2019-03-31", 
 		  "recipient": {	
 		    "type": "email",	
-		    "identity": "liliasfaxi@gmail.com",	
+		    "identity": "bourasmouna151@gmail.com",	
 		    "hashed": false	
 		  },	
 		  "issuedOn": "2019-03-31",	
 		  "badge": "https://badges.lilisfaxi.now.sh/json/soft-badge.json",	
 		  "verify": {	
 		    "type": "hosted",	
-		    "url": "https://badges.lilisfaxi.now.sh/json/generated/liliasfaxi-entrep-2019-03-31.json"	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/bourasmouna151-soft-2019-03-31.json"	
 		  }	
 		}

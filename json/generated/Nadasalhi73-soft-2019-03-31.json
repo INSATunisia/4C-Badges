@@ -1,0 +1,13 @@
+{"uid": "Nadasalhi73-soft-2019-03-31", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "Nadasalhi73@yahoo.com",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-03-31",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/soft-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/Nadasalhi73-soft-2019-03-31.json"	
+		  }	
+		}

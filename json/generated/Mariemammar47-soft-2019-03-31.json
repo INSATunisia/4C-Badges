@@ -1,0 +1,13 @@
+{"uid": "Mariemammar47-soft-2019-03-31", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "Mariemammar47@gmail.com",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-03-31",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/soft-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/Mariemammar47-soft-2019-03-31.json"	
+		  }	
+		}

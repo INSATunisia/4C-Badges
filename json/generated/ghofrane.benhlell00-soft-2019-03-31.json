@@ -1,0 +1,13 @@
+{"uid": "ghofrane.benhlell00-soft-2019-03-31", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "ghofrane.benhlell00@gmail.com",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-03-31",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/soft-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/ghofrane.benhlell00-soft-2019-03-31.json"	
+		  }	
+		}
