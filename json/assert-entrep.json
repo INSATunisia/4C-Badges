@@ -1,29 +1,14 @@
 {
-  "uid": "1",
+  "uid": "0",
   "recipient": {
     "type": "email",
     "identity": "liliasfaxi@gmail.com",
     "hashed": false
   },
-  "issuedOn":  1551018640,
-  "badge": {
-      "name": "4C-INSAT Certified - Entrepreneurship Skills",
-      "description": "This badge is awarded to those who have successfully passed an exam in the Entrepreneurship Category, of one of the trainings provided by 4C-INSAT",
-        "image": {
-          "@context": "https://w3id.org/openbadges/v2",
-          "id": "https://ucb0502f3f6b79efa537d6a8c30b.previews.dropboxusercontent.com/p/thumb/AAWXQ2CisMG-lpr5hcEz-IxkZQHh6loZ2-Sr-5pwRZd4IVSIgDTeOeSdOO-IMS128Xt7zDsA18YnOkUtZi7UW7YaSpoa15LanPNUoCsrvvid3Lo8YW-05_G10KDHcMrGg9pHVRSwYq7GDO6RGiUsyhNFiLCynFs8W1g0inHbWIYKSeqklSSZbSthPIrZmnZ5K5Q1zwjYsKhKq9s7CbH2a7uEqGjG_0ImtnFxvu4TOHh0zc8RpfX4O4iPyEn1TlftqlXcWmYQbO9RCnjDoJ2wnm1vMs8786Mx4TsRQ7zEMOMqydCbtJ_7QPr4h-qdk2cR560/p.png",
-          "caption": "4C-INSAT Certified in Entrepreneurship Skills Badge",
-          "author": "Lilia Sfaxi"
-        }
-      
-      "criteria": "http://www.insat.rnu.tn",
-      "issuer": {
-        "name": "4C-INSAT",
-        "url": "https://www.facebook.com/Insat4c/"
-      }
-    },
+  "issuedOn":  "03/31/2019",
+  "badge": "https://badges.lilisfaxi.now.sh/json/entrep-badge.json",
   "verify": {
     "type": "hosted",
-    "url": "https://www.dropbox.com/s/n4o1ck2h9n4d4sa/assert-entrep.json"
+    "url": "https://badges.lilisfaxi.now.sh/json/assert-entrep.json"
   }
 }
