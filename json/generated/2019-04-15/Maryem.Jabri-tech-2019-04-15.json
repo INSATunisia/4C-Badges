@@ -5,9 +5,9 @@
 		    "hashed": false	
 		  },	
 		  "issuedOn": "2019-04-15",	
-		  "badge": "https://badges.lilisfaxi.now.sh/json/soft-badge.json",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/tech-badge.json",	
 		  "verify": {	
 		    "type": "hosted",	
-		    "url": "https://badges.lilisfaxi.now.sh/json/generated/Maryem.Jabri-tech-2019-04-15.json"	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/2019-04-15/Maryem.Jabri-tech-2019-04-15.json"	
 		  }	
 		}

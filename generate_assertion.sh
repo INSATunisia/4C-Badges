@@ -11,23 +11,25 @@ fi
 
 today=$(date +"%Y-%m-%d")
 
+echo $2
 email_regex="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$"
 badge_file="https://badges.lilisfaxi.now.sh/json/entrep-badge.json"
 
-if [[ $2 -eq "soft" ]]; then
+if [[ "$2" = "soft" ]]; then
    badge_file="https://badges.lilisfaxi.now.sh/json/soft-badge.json"
-elif [[ $2 -eq "tech" ]]; then
+elif [[ "$2" = "tech" ]]; then
    badge_file="https://badges.lilisfaxi.now.sh/json/tech-badge.json"
 fi
-
-
+echo $badge_file
+mkdir json/generated/$today
 
 while read line
 do
     name=$line
     login="$(cut -d'@' -f1 <<<$name)"
     id_assertion=$login"-"$2"-"$today
-    file="json/generated/"$id_assertion".json"
+    
+    file="json/generated/"$today"/"$id_assertion".json"
 
 	if [[ $name =~ $email_regex ]] ; then
 		echo "{\"uid\": \""$id_assertion"\", 
@@ -40,7 +42,7 @@ do
 		  \"badge\": \""$badge_file"\",	
 		  \"verify\": {	
 		    \"type\": \"hosted\",	
-		    \"url\": \"https://badges.lilisfaxi.now.sh/json/generated/"$id_assertion".json\"	
+		    \"url\": \"https://badges.lilisfaxi.now.sh/json/generated/"$today"/"$id_assertion".json\"	
 		  }	
 		}" > $file
 		
