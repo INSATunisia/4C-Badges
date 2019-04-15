@@ -1,0 +1,13 @@
+{"uid": "jilanihanene-tech-2019-04-15", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "jilanihanene@yahoo.fr",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-04-15",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/soft-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/jilanihanene-tech-2019-04-15.json"	
+		  }	
+		}

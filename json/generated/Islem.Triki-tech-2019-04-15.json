@@ -1,0 +1,13 @@
+{"uid": "Islem.Triki-tech-2019-04-15", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "Islem.Triki@enicar.u-carthage.tn",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-04-15",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/soft-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/Islem.Triki-tech-2019-04-15.json"	
+		  }	
+		}
