@@ -1,0 +1,13 @@
+{"uid": "belaidmaryem2016-tech-2019-05-06", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "belaidmaryem2016@gmail.com",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-05-06",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/tech-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/2019-05-06/belaidmaryem2016-tech-2019-05-06.json"	
+		  }	
+		}
