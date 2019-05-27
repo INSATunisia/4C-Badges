@@ -1,0 +1,13 @@
+{"uid": "Aya.Mami-tech-2019-05-27", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "Aya.Mami@insat.u-carthage.tn",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-05-27",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/tech-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/2019-05-27/Aya.Mami-tech-2019-05-27.json"	
+		  }	
+		}

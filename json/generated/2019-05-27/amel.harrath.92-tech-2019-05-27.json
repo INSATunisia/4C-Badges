@@ -1,0 +1,13 @@
+{"uid": "amel.harrath.92-tech-2019-05-27", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "amel.harrath.92@gmail.com",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-05-27",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/tech-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/2019-05-27/amel.harrath.92-tech-2019-05-27.json"	
+		  }	
+		}

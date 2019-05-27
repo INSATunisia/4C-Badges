@@ -1,0 +1,13 @@
+{"uid": "Khouloud25.abid-tech-2019-05-27", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "Khouloud25.abid@gmail.com",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-05-27",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/tech-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/2019-05-27/Khouloud25.abid-tech-2019-05-27.json"	
+		  }	
+		}
