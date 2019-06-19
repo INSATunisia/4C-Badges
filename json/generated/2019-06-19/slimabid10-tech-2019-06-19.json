@@ -1,0 +1,13 @@
+{"uid": "slimabid10-tech-2019-06-19", 
+		  "recipient": {	
+		    "type": "email",	
+		    "identity": "slimabid10@gmail.com",	
+		    "hashed": false	
+		  },	
+		  "issuedOn": "2019-06-19",	
+		  "badge": "https://badges.lilisfaxi.now.sh/json/tech-badge.json",	
+		  "verify": {	
+		    "type": "hosted",	
+		    "url": "https://badges.lilisfaxi.now.sh/json/generated/2019-06-19/slimabid10-tech-2019-06-19.json"	
+		  }	
+		}
